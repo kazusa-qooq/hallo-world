@@ -1,4 +1,4 @@
 hallo-world
 ===========
 
-training for github
+training for github operation
